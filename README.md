@@ -1,4 +1,4 @@
-### Hey, I'm ✨ **Matheus Gesser** ✨
+### Hey, I'm **Matheus Gesser** ✨
 
 ⚡ My favorite language is Javascript
 
