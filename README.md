@@ -1,5 +1,4 @@
-# **Matheus Gesser**
-### *Front-end Developer*
+## *Front-end Developer*
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 💼 Em busca de desafios
