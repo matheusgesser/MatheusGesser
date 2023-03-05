@@ -4,7 +4,7 @@
 💼 Em busca de desafios
 
 <a href="mailto:matheusmvg@hotmail.com">
-		<img src='https://img.shields.io/badge/E-mail-222222?style=for-the-badge&logo=microsoft-outlook&logoColor=white' />
+		<img src='https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=microsoft-outlook&logoColor=white' />
 	</a>
 	
 <a href="https://www.linkedin.com/in/matheusgesser/">
