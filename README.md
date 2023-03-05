@@ -4,13 +4,11 @@
 💼 Em busca de desafios
 
 <a href="mailto:matheusmvg@hotmail.com">
-		<img src='https://img.shields.io/badge/Hotmail-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white' />
-		matheusmvg@hotmail.com
+		<img src='https://img.shields.io/badge/E-mail-222222?style=for-the-badge&logo=microsoft-outlook&logoColor=white' />
 	</a>
 	
 <a href="https://www.linkedin.com/in/matheusgesser/">
-		<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
-		LinkedIn
+		<img src='https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white' />
 	</a>
 
 [![matheusgesser](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgesser&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
