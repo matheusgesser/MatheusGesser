@@ -6,10 +6,13 @@
 
 <section width="100%" align="center">
 <a href="mailto:matheusmvg@hotmail.com">
-	<img src='https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=222' height="40px" />
-</a>	
+	<img src='https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=111' height="40px" />
+</a>
+<a href="https://matheusgesser.netlify.app/">
+	<img src='https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=readthedocs&logoColor=111' height="40px" />
+</a>
  <a href="https://www.linkedin.com/in/matheusgesser/">
-	<img src='https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=222' height="40px" />
+	<img src='https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=111' height="40px" />
 </a>
 </section>
 
