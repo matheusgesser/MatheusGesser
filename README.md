@@ -2,7 +2,11 @@
 	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="8%"></img>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=18&duration=3000&pause=0&color=CCC&center=true&multiline=true&repeat=false&height=55&lines=Matheus+Gesser;Front-end+Developer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=18&duration=3000&pause=0&color=FFF&center=true&multiline=true&repeat=false&height=55&lines=Matheus+Gesser;Front-end+Developer" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=18&duration=3000&pause=0&color=000&center=true&multiline=true&repeat=false&height=55&lines=Matheus+Gesser;Front-end+Developer" width="100%">
+</picture>
+
 
 <section width="100%" align="center">
 <a href="mailto:matheusmvg@hotmail.com">
