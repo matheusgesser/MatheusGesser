@@ -1,4 +1,4 @@
-<section align="center">
+<section width="100%" align="center">
 	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="8%"></img>
 </section>
 
