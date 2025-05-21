@@ -14,7 +14,7 @@
 	<a href="mailto:matheusmvg@hotmail.com">
 		<img src='https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=111' height="30px" />
 	</a>
-	<a href="https://matheusgesser.netlify.app/">
+	<a href="https://gesser.pro/">
 		<img src='https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=readthedocs&logoColor=111' height="30px" />
 	</a>
 	 <a href="https://www.linkedin.com/in/matheusgesser/">
